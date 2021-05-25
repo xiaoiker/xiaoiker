@@ -3,7 +3,7 @@
 
 Education
 ---------
-2021-Now (expected)
+2021-Now 
 :   **Exchange Researcher**; Harvard University, US 
 
      MRI acceleration and reconstruction
