@@ -3,12 +3,18 @@
 
 Education
 ---------
-2021-Now 
+
+2021-Now
+:   **Exchange Researcher**; ETH Zürich, Switzerland 
+
+     Medical Image Segmentation
+
+2020-2021 (6 months) 
 :   **Exchange Researcher**; Harvard University, US 
 
      MRI acceleration and reconstruction
 
-2018-2021 (expected)
+2018-2022 (expected)
 :   **PhD, Computer Science**; University of Oulu, Finland 
 
     Deep Learning Approaches for Affective computing
