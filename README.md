@@ -1,10 +1,10 @@
 ### Hi there 👋
-   I’m a Machine learniang researcher and a PhD candidate at CMVS, university of Oulu, Finland. Currently, I am working on machine learning and its applications. My research interests includes affective computing (e.g., emotion classification and human behavior analysis), medical image analysis and especially, MRI/fMRI reconstruction and acceleration. 
+   I’m a Post-Doc researcher at CMVS at *Stanford University*. Before that, I was a Machine learniang researcher and a PhD candidate at CMVS, university of Oulu, Finland. Currently, I am working on machine learning and its applications. My research interests includes affective computing (e.g., emotion classification and human behavior analysis), medical image analysis and especially, MRI/fMRI reconstruction and acceleration. 
 
 Education
 ---------
 
-2021-Now
+2021-2022 (4 months)
 :   **Exchange Researcher**; ETH Zürich, Switzerland 
 
      Medical Image Segmentation
@@ -14,7 +14,7 @@ Education
 
      MRI acceleration and reconstruction
 
-2018-2022 (expected)
+2018-2022
 :   **PhD, Computer Science**; University of Oulu, Finland 
 
     Deep Learning Approaches for Affective computing
