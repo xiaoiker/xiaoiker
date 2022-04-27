@@ -1,5 +1,5 @@
 ### Hi there 👋
-   I’m a Post-Doc researcher at CMVS at **Stanford University**. Before that, I was a Machine learniang researcher and a PhD candidate at CMVS, university of Oulu, Finland. Currently, I am working on machine learning and its applications. My research interests includes affective computing (e.g., emotion classification and human behavior analysis), medical image analysis and especially, MRI/fMRI reconstruction and acceleration. 
+   I’m a Post-Doc researcher at **Stanford University**. Before that, I was a Machine learniang researcher and a PhD candidate at CMVS, university of Oulu, Finland. Currently, I am working on machine learning and its applications. My research interests includes affective computing (e.g., emotion classification and human behavior analysis), medical image analysis and especially, MRI/fMRI reconstruction and acceleration. 
 
 Education
 ---------
